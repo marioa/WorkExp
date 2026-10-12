@@ -15,7 +15,4 @@ I will go see some hugeeee computers at the ACF.
 
 
 I will code in python
-
-
-Did some consolidation
-hello
+hello 
