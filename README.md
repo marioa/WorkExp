@@ -11,6 +11,5 @@ I learned a little about the Bash shell and git.
 I will go see some big computers at the ACF.
 
 ## Third day
-
-I will code in python
+Did some consolidation
 hello
