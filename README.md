@@ -10,6 +10,5 @@ I learned a little about the Bash shell and git.
 
 I will go see some big computers at the ACF.
 
-# Third day
+## Third day
 Did some consolidation
-
