@@ -1,4 +1,4 @@
-# My 2026 Work Experience
+# My 2026 EPCC Work Experience
 
 I have learned some git through my EPCC Work Experience.
 
