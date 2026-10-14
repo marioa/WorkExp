@@ -14,5 +14,4 @@ I will go see some hugeeee computers at the ACF.
 ## Third day
 
 
-I will code in python
-hello 
+Learnt bash and git
