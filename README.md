@@ -3,6 +3,10 @@
 
 I have learned some git through my EPCC Work Experience.
 
+- [x] **Rohan** save the world
+- [x] **Cameron** save the world from Rohan
+- [x] **Godslight** in no way help them
+
 ## First day
 
 I learned a little about the Bash shell and git.
