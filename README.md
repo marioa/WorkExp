@@ -13,5 +13,6 @@ I will go see some hugeeee computers at the ACF.
 
 ## Third day
 
-
 Learnt bash and git
+Do a bit more bash and git before python.
+
