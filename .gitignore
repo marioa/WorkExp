@@ -2,3 +2,5 @@ data/passwords
 \~*
 *~
 *\#
+*.xlsx
+.ipynb_checkpoints/
